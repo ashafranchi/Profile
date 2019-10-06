@@ -208,6 +208,11 @@ a {
   font-size: 1.5rem;
 }
 
+.noweight-2 {
+  font-weight: 400;
+  font-size: 1.15rem;
+}
+
 a:hover, a:focus, a:active {
   color: #3C1642;
 }
