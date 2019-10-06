@@ -216,3 +216,10 @@ a {
 a:hover, a:focus, a:active {
   color: #3C1642;
 }
+
+button {
+  padding: 10px;
+  background-color: #950740;
+  display: flex;
+  justify-content: center;
+}
