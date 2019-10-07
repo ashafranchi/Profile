@@ -220,6 +220,10 @@ a:hover, a:focus, a:active {
 button {
   padding: 10px;
   background-color: #950740;
+}
+
+.pre-footer {
   display: flex;
   justify-content: center;
+  padding-bottom: 200px;
 }
