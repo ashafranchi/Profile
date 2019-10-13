@@ -227,3 +227,11 @@ button {
   justify-content: center;
   padding-bottom: 200px;
 }
+
+li {
+  margin-bottom: 10px;
+}
+
+.redux-icon {
+  font-size: .8em;
+}
